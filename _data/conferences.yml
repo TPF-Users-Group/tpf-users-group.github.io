@@ -1,0 +1,473 @@
+-    date: 1973-S
+     location: San Francisco (American Airlines)
+     chairperson: Henry Meyer (AL)
+     attendees:
+     companies:
+
+-    date: 1973-F
+     location: Minneapolis (NC)
+     chairperson: Henry Meyer (AL)
+     attendees:
+     companies:
+
+-    date: 1974-S
+     location: Atlanta (Delta Airlines)
+     chairperson: Henry Meyer (AL)
+     attendees:
+     companies:
+
+-    date: 1974-F
+     location: Vancouver (Canadian Air)
+     chairperson: Henry Meyer (AL)
+     attendees:
+     companies:
+
+-    date: 1975-S
+     location: Los Angeles (Flying Tigers)
+     chairperson: Henry Meyer (AL)
+     attendees:
+     companies:
+
+-    date: 1975-F
+     location: Fort Lauderdale (National Airlines)
+     chairperson: Henry Meyer (AL)
+     attendees:
+     companies:
+
+-    date: 1976-S
+     location: Dallas (Braniff Airlines)
+     chairperson: John Sullivan (UA)
+     attendees:
+     companies:
+
+-    date: 1976-F
+     location: San Francisco (American Airlines)
+     chairperson: John Sullivan (UA)
+     attendees:
+     companies:
+
+-    date: 1977-S
+     location: Toronto (Air Canada)
+     chairperson: John Sullivan (UA)
+     attendees:
+     companies:
+
+-    date: 1977-F
+     location: Zurich (SwissAir)
+     chairperson: John Sullivan (UA)
+     attendees:
+     companies:
+
+-    date: 1978-S
+     location: Honolulu (United Airlines)
+     chairperson: Jim Lang (WA)
+     attendees:
+     companies:
+
+-    date: 1978-F
+     location: Los Angeles (Western Airlines)
+     chairperson: Jim Lang (WA)
+     attendees:
+     companies:
+
+-    date: 1979-S
+     location: Washington, DC (Allegheny Air)
+     chairperson: Jim Lang (WA)
+     attendees:
+     companies:
+
+-    date: 1979-F
+     location: Phoenix (TWA/Amex)
+     chairperson: Jim Lang (WA)
+     attendees:
+     companies:
+
+-    date: 1980-S
+     location: Reno, NV (Western/Bancorp)
+     chairperson: Jim Lang (WA)
+     attendees:
+     companies:
+
+-    date: 1980-F
+     location: New Orleans (Holiday Inn)
+     chairperson: Bill Spilman (Bancorp)
+     attendees:
+     companies:
+
+-    date: 1981-S
+     location: Guadalajara (SCT)
+     chairperson: Bill Spilman (1st Interstate)
+     attendees:
+     companies:
+
+-    date: 1981-F
+     location: (Postponed to 1982)
+     chairperson: N/A
+     attendees:
+     companies:
+
+-    date: 1982-S
+     location: Vancouver, Canada (Canadian Air)
+     chairperson: Bill Spilman (1st Interstate)
+     attendees:
+     companies:
+
+-    date: 1982-F
+     location: Chicago, Il (Hyatt)
+     chairperson: Bill Spilman (1st Interstate)
+     attendees:
+     companies:
+
+-    date: 1983-S
+     location: Dallas/Arlington, TX (American)
+     chairperson: Bill Spilman (1st Interstate)
+     attendees:
+     companies:
+
+-    date: 1983-F
+     location: Phoenix, AZ (American Express)
+     chairperson: Bill Spilman (1st Interstate)
+     attendees:
+     companies:
+
+-    date: 1984-S
+     location: Boston, MA (United)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1984-F
+     location: Washington, DC (Marriott)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1985-S
+     location: San Francisco, CA (Ramada)
+     chairperson: Harm Helm (UA)
+     attendees:
+     companies:
+
+-    date: 1985-F
+     location: Miami, FL (Eastern)
+     chairperson:Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1986-S
+     location: Maui, HI (American)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1986-F
+     location: Atlanta, GA (Delta Airlines)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1987-S
+     location: Monterey, CA (Visa)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1987-F
+     location: Kansas City, MO (PSP/TWA)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1988-S
+     location: Atlantic City, NJ (Beneficial)
+     chairperson: John Abernathy (System One)
+     attendees:
+     companies:
+
+-    date: 1988-F
+     location: Phoenix, AZ (Amex)
+     chairperson: John Abernathy (System One)
+     attendees:
+     companies:
+
+-    date: 1989-S
+     location: White Plains, NY (Pan Am)
+     chairperson: Ed Zeil (PARS)
+     attendees:
+     companies:
+
+-    date: 1989-F
+     location: Los Angeles, CA (System One)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1990-S
+     location: Bournemouth, U.K. (Galileo)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1990-F
+     location: Palm Springs, CA (Visa)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1991-S
+     location: Vail, CO (Covia)
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1991-F
+     location: Boston, MA
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1992-S
+     location: Las Vegas, NV
+     chairperson: Henry Meyer (USAir)
+     attendees:
+     companies:
+
+-    date: 1992-F
+     location: Atlanta, GA
+     chairperson: Jane Weeks (Marriott)
+     attendees:
+     companies:
+
+-    date: 1993-S
+     location: Seattle, WA
+     chairperson: Jane Weeks (Marriott)
+     attendees:
+     companies:
+
+-    date: 1993-F
+     location: New Orleans, LA
+     chairperson: Jane Weeks (Marriott)
+     attendees:
+     companies:
+
+-    date: 1994-S
+     location: Toronto, Canada <br>(25th year of ACP/TPF)
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees:
+     companies:
+
+-    date: 1994-F
+     location: San Diego, CA
+     chairperson: Jane Weeks (Holiday Inn)
+     attendees:
+     companies:
+
+-    date: 1995-S
+     location: Washington, DC
+     chairperson: Jane Weeks (Holiday Inn)
+     attendees: 187
+     companies: 40
+
+-    date: 1995-F
+     location: Phoenix, AZ
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 180
+     companies: 41
+
+-    date: 1996-S
+     location: Orlando, Fl
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees:
+     companies:
+
+-    date: 1996-F
+     location: Dallas, TX
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees:
+     companies:
+
+-    date: 1997-S
+     location: San Francisco, CA
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 279
+     companies: 45
+
+-    date: 1997-F
+     location: Atlanta, GA
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 388
+     companies: 41
+
+-    date: 1998-S
+     location: Denver, CO
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 364
+     companies: 39
+
+-    date: 1998-F
+     location: Miami Beach, FL
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 360
+     companies: 46
+
+-    date: 1999-S
+     location: Chicago, IL
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 344
+     companies: 44
+
+-    date: 1999-F
+     location: Cancun, MX
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 288
+     companies: 45
+
+-    date: 2000-S
+     location: Las Vegas, NV
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 368
+     companies: 52
+
+-    date: 2000-F
+     location: Tucson, AZ
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 398
+     companies: 49
+
+-    date: 2001-S
+     location: Toronto, Canada
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 296
+     companies: 51
+
+-    date: 2001-F
+     location: Cancelled due to 9/11
+     chairperson: N/A
+     attendees:
+     companies:
+
+-    date: 2002-S
+     location: Orlando, FL
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 283
+     companies: 44
+
+-    date: 2002-F
+     location: Palm Springs, CA
+     chairperson: Stephen Quackenbush (Galileo)
+     attendees: 299
+     companies: 46
+
+-    date: 2003-S
+     location: New Orleans, LA <br> (30th Anniversary of TPFUG)
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 183
+     companies: 40
+
+-    date: 2003-F
+     location: Nashville, TN
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 209
+     companies: 43
+
+-    date: 2004-S
+     location: Acapulco, MX
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 186
+     companies: 40
+
+-    date: 2004-F
+     location: Grapevine, TX
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 273
+     companies: 56
+
+-    date: 2005-S
+     location: Hollywood, CA
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 235
+     companies: 49
+
+-    date: 2005-F
+     location: Orlando, FL
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 207
+     companies: 42
+
+-    date: 2006-S
+     location: Denver, CO
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 272
+     companies: 51
+
+-    date: 2006-F
+     location: Atlanta, GA
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 224
+     companies: 46
+
+-    date: 2007-S
+     location: Las Vegas, NV
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 208
+     companies: 48
+
+-    date: 2007-F
+     location: Arlington, VA
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 236
+     companies: 44
+
+-    date: 2008-S
+     location: Dallas, TX <br> (35th year of ACP/TPF)
+     chairperson: Jeff Nelson (Worldspan)
+     attendees: 211
+     companies: 47
+
+-    date: 2008-F
+     location:Orlando, FL
+     chairperson: Jeff Nelson (Travelport)
+     attendees: 198
+     companies: 35
+
+-    date: 2009-S
+     location: Lincolnshire, IL
+     chairperson: Jeff Nelson (Travelport)
+     attendees: 124
+     companies: 30
+
+-    date: 2009-F
+     location: Scottsdale, AZ
+     chairperson: Jeff Nelson (Travelport)
+     attendees: 152
+     companies: 31
+
+-    date: 2010-F
+     location: Miami, FL
+     chairperson: Jeff Nelson (Travelport)
+     attendees: 161
+     companies: 32
+
+-    date: 2011-F
+     location: San Francisco, CA
+     chairperson: Jeff Nelson (Travelport)
+     attendees: 140
+     companies: 32
+
+-    date: 2012-F
+     location: Denver, CO
+     chairperson: Jeff Nelson (Travelport)
+     attendees: 176
+     companies: 27
+
+-    date: 2013-S
+     location: Atlanta, GA
+     chairperson: Jeff Nelson (Travelport)
+     attendees: 136
+     companies: 23
+
+-    date: 2014-S
+     location: Washington, D. C.
+     chairperson: Jeff Nelson (Travelport)
+     attendees:
+     companies:
