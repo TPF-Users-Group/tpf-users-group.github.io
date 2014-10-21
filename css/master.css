@@ -61,7 +61,7 @@ body {
 }
 
 /* Responsive: portrait tablets and up */
-@media screen and (mid-width: 768px) {
+@media screen and (min-width: 768px) {
      /* Remove the padding we set earlier */
      .header,
      .marketing,
