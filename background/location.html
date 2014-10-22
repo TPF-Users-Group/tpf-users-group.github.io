@@ -1,0 +1,28 @@
+---
+layout: default
+title: Conference Locations
+lastModified: October 22, 2014
+---
+
+<h1> Conference Locations </h1>
+<p> Following is a list of the dates, locations and hosting members, including the presiding chairperson for the meetings of the organization since 1973.</p>
+<div class="table-responsive">
+     <table class="table table-hover">
+          <tr>
+               <td>Date</td>
+               <td>Location (Host, if applicable)</td>
+               <td>Chairperson</td>
+               <td>Number of Attendees</td>
+               <td>Number of Companies</td>
+          </tr>
+          {% for conference in site.data.conferences %}
+          <tr>
+               <td> {{ conference.data }} </td>
+               <td> {{ conference.place }} </td>
+               <td> {{ conference.chair }} </td>
+               <td> {{ conference.attendees }} </td>
+               <td> {{ conference.companies }} </td>
+          </tr>
+          {% endfor %}
+     </table>
+</div>
