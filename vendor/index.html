@@ -1,0 +1,18 @@
+---
+layout: default
+title: Suppliers and Vendors
+lastModified: October 22, 2014
+---
+
+<h1>Suppliers and Vendors</h1>
+<p>Suppliers of hardware and complimentary software products to the TPF Program product are welcome participants of the TPF Users Group.  Below are some of the Suppliers that participate on a
+regular basis and support the TPF Users Group and its member companies.</p>
+<p>For more information on the products and services that are provided by these companies, please visit their web sites or contact one of their representatives.</p>
+<p><a href="/vendor/participation.html" class="btn btn-default btn-lg" role="button">For Vendors Only</a></p>
+<div class="row">
+     {% for vendor in site.data.vendors %}
+     <div class="col-md-4">
+          <a href="{{ vendor.url }}"><img src="{{ vendor.image }}" class="img-responsive" alt="{{ vendor.name }}"></a>
+     </div>
+     {% endfor %}
+</div>

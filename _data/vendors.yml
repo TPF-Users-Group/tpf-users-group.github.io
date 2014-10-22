@@ -1,0 +1,96 @@
+- 
+  name: "ARINC"
+  image: ""
+  url: "http://www.arinc.com"
+- 
+  name: "Datalex"
+  image: ""
+  url: "http://www.datalex.com/"
+- 
+  name: "Cornerstone Systems, Inc"
+  image: ""
+  url: "http://www.csihome.com"
+- 
+  name: "Dignus"
+  image: ""
+  url: "http://www.dignus.com/"
+- 
+  name: "Echo"
+  image: ""
+  url: "http://www.callecho.com"
+- 
+  name: "EMC Corporation"
+  image: ""
+  url: "http://www.emc.com/"
+- 
+  name: "Hexaware Technologies"
+  image: ""
+  url: "http://www.hexaware.com"
+- 
+  name: "Hitachi"
+  image: ""
+  url: "http://www.hitachi.com"
+- 
+  name: "InterGlobe Technologies"
+  image: ""
+  url: "http://www.interglobetechnologies.com"
+- 
+  name: "LinkiT"
+  image: ""
+  url: "http://www.linkit.nl/"
+- 
+  name: "MQSoftware"
+  image: ""
+  url: "http://www.mqsoftware.com/"
+- 
+  name: "NIIT Technologies"
+  image: ""
+  url: "http://www.niit-tech.com/"
+- 
+  name: "PCS Training"
+  image: ""
+  url: "http://www.pcs-training.co.uk/"
+- 
+  name: "Syntel"
+  image: ""
+  url: "http://www.syntelinc.com"
+- 
+  name: "Sosa-Cousins"
+  image: ""
+  url: "http://www.sosacousins.com"
+- 
+  name: "SecureAgent"
+  image: ""
+  url: "http://www.secureagent.com/"
+- 
+  name: "Tata Consultancy Services"
+  image: ""
+  url: "http://www.tcs.com/"
+- 
+  name: "TPF Software"
+  image: ""
+  url: "http://www.tpfsoftware.com/"
+- 
+  name: "Software Migrations Limited"
+  image: ""
+  url: "http://www.smltd.com/"
+- 
+  name: "Travel Distribution & Technology"
+  image: ""
+  url: "#"
+- 
+  name: "SkyTech Solutions"
+  image: ""
+  url: "http://www.skytechsolutions.com/"
+- 
+  name: "Vertical Computer Systems"
+  image: ""
+  url: "http://www.vcsy.com/"
+- 
+  name: "Velocity Software"
+  image: ""
+  url: "http://www.velocity-software.com/"
+- 
+  name: "Virtual Software Systems"
+  image: ""
+  url: "http://www.vsoftsys.com/"
