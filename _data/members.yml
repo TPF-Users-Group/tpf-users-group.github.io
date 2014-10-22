@@ -1,0 +1,132 @@
+-
+  name: "Alitalia"
+  image: "/images/alitalia.gif"
+  url: "http://www.alitalia.it"
+- 
+  name: "Amadeus"
+  image: "/images/amadeus.gif"
+  url: "http://www.amadeus.net"
+- 
+  name: "American Airlines"
+  image: "/images/aa.gif"
+  url: "http://www.aa.com"
+- 
+  name: "American Express"
+  image: "/images/amex.gif"
+  url: "http://www.americanexpress.com"
+- 
+  name: "Amtrak"
+  image: "/images/amtrak.gif"
+  url: "http://www.amtrak.com"
+- 
+  name: "ANA"
+  image: "/images/ana.gif"
+  url: "http://www.ana.com"
+- 
+  name: "Bank of America"
+  image: "/images/boa.gif"
+  url: "http://www.bankamerica.com"
+- 
+  name: "British Airways"
+  image: "/images/ba.gif"
+  url: "http://www.british-airways.com"
+- 
+  name: "The ChicagoBoard Options Exchange"
+  image: "/images/cboe.gif"
+  url: "http://www.cboe.com"
+- 
+  name: "CitiBank"
+  image: "/images/citib.gif"
+  url: "http://www.citicorp.com"
+- 
+  name: "CitiFinancial"
+  image: "/images/citif.gif"
+  url: "http://www.citifinancial.com"
+- 
+  name: "Continental Airlines"
+  image: "/images/continental.gif"
+  url: "http://www.continental.com"
+- 
+  name: "Delta"
+  image: "/images/delta.gif"
+  url: "http://www.delta.com"
+- 
+  name: "Hewlett-Packard"
+  image: "/images/hp.gif"
+  url: "http://www.hp.com"
+- 
+  name: "IBM TPF"
+  image: "/images/ibmtpf.gif"
+  url: "http://www.ibm.com/tpf"
+- 
+  name: "InterContinental Hotels Group"
+  image: "/images/ihg.gif"
+  url: "http://www.ihg.com"
+- 
+  name: "Internal Revenue Service"
+  image: "/images/irs.gif"
+  url: "http://www.irs.ustreas.gov"
+- 
+  name: "JAL"
+  image: "/images/jal.gif"
+  url: "http://www.jal.co.jp"
+- 
+  name: "JTB"
+  image: "/images/jtb.gif"
+  url: "http://www.jtb.co.jp"
+- 
+  name: "KLM"
+  image: "/images/klm.gif"
+  url: "http://www.klm.nl"
+- 
+  name: "Korean Air"
+  image: "/images/korean.gif"
+  url: "http://www.koreanair.com"
+- 
+  name: "Marriott"
+  image: "/images/marriott.gif"
+  url: "http://www.marriott.com"
+- 
+  name: "NYPD"
+  image: "/images/nypd.gif"
+  url: ""
+- 
+  name: "Qantas"
+  image: "/images/qantas.gif"
+  url: "http://www.qantas.com"
+- 
+  name: "Sabre"
+  image: "/images/sabre.gif"
+  url: "http://www.sabre.com"
+- 
+  name: "Singapore Airlines"
+  image: "/images/singapore.gif"
+  url: "http://www.singaporeair.com"
+- 
+  name: "SNCF"
+  image: "/images/sncf.gif"
+  url: "http://www.sncf.fr"
+- 
+  name: "Southwest Airlines"
+  image: "/images/southwest.gif"
+  url: "http://www.southwest.com"
+- 
+  name: "Thai Airways International"
+  image: "/images/thai.gif"
+  url: "http://www.thai-airways.dk"
+- 
+  name: "Travelport"
+  image: "/images/travelport.gif"
+  url: "http://www.travelport.com"
+- 
+  name: "United Airlines"
+  image: "/images/united.gif"
+  url: "http://www.united.com"
+- 
+  name: "Visa"
+  image: "/images/visa.gif"
+  url: "http://www.visa.com"
+- 
+  name: "Wells Fargo"
+  image: "/images/wellsfargo.gif"
+  url: "http://www.wellsfargo.com"

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Member Companies
+lastModified: October 22, 2014
+---
+
+<h1>Member Companies</h1>
+<div class="row">
+{% for member in site.data.members %}
+     <div class="col-md-4">
+          <a href="{{member.url}}"><img src="{{member.image}}" class="img-responsive" alt="{{member.name}}"></a>
+     </div>
+{% endfor %}
+</div>
+     
