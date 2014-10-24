@@ -31,7 +31,7 @@ lastModified: October 23, 2014
 <h1>Consultants to the board</h1>
 <table class="table table-hover">
      {% for officer in site.data.officers %}
-     {% if office.committee == 'consultants' %}
+     {% if officer.committee == 'consultants' %}
      <tr>
           <td>
                {{officer.name}}<br>
