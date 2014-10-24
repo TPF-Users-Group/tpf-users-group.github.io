@@ -1,0 +1,332 @@
+- 
+  name: "Jeff Nelson"
+  company: "Travelport"
+  address: 6901 S. Havana St.<br>Centennial, CO 80112 
+  title: "President and Chairperson"
+  phone: "303-397-5963"
+  fax: 
+  email: "Jeff.Nelson@Travelport.com"
+  committee: directors
+  servedSince: "S99"
+- 
+  name: "Shawn Spence"
+  company: "American Express"
+  address: Desert Ridge AEDR 26-02-01<br>18850 N. 56th Street<br>Phoenix, AZ 85054
+  title: "Vice-President"
+  phone: "602-537-3388"
+  fax: "602-537-3072"
+  email: "Shawn.E.Spence@AExp.com"
+  committee: directors
+  servedSince: "F07"
+- 
+  name: "Diane Pistole"
+  company: "Hewlett Packard"
+  address: 4600 N Mingo Road #398<br>Tulsa, OK 74116
+  title: "Secretary"
+  phone: "918-939-5311"
+  fax: "918-939-4497"
+  email: "Diane.Pistole@HP.com"
+  committee: directors
+  servedSince: "S09"
+- 
+  name: "Jeff Gill"
+  company: "Visa"
+  address: PO Box 8999 Mailstop M2-11<br>San Francisco, CA 94128-8999
+  title: "Treasurer"
+  phone: "650-432-4420"
+  fax: 
+  email: "JGill@Visa.com"
+  committee: directors
+  servedSince: "S13"
+- 
+  name: "Robert Dryfoos"
+  company: "IBM Corporation"
+  address: 2455 South Road<br>Poughkeepsie, NY 12601
+  title: "IBM Mgmt Representative"
+  phone: "845-433-5960"
+  fax: 
+  email: "Dryfoos@us.ibm.com"
+  committee: directors
+  servedSince: 
+- 
+  name: "Misha Kravchenko"
+  company: "Marriot International, Inc"
+  address: 9737 Washingtonian Blvd Suite 501<br>Gaithersburg, MD 20878
+  title: 
+  phone: "301-380-5557"
+  fax: 
+  email: "Misha.Kravchenko@marriott.com"
+  committee: directors
+  servedSince: "S14"
+- 
+  name: "Joe Pittari"
+  company: "Amtrak"
+  address: 10 G. Street NE, 2W-117<br>Washington, DC 20002
+  title: 
+  phone: "202-906-4751"
+  fax: 
+  email: "Joseph.Pittari@amtrak.com"
+  committee: directors
+  servedSince: "S14"
+- 
+  name: "Kirtisri (Keith) Samarasuriya"
+  company: "Sabre, Inc."
+  address: 3150 Sabre Drive, MD 9301<br>Southlake, TX 76092
+  title: 
+  phone: "682-605-1588"
+  fax: "682-605-7559"
+  email: "Kirtisri.Samarasuriya@Sabre.com"
+  committee: directors
+  servedSince: "S00"
+- 
+  name: "Open"
+  company: 
+  address: 
+  title: 
+  phone: 
+  fax: 
+  email: 
+  committee: 
+  servedSince: "S14"
+- 
+  name: "Randy Melby"
+  company: "Delta Airlines"
+  address: MSP-J Dept 121<br>1500 Tower View Rd<br>Eagan, MN 55121
+  title: 
+  phone: "612-266-3549"
+  fax: 
+  email: "Randy.Melby@Delta.com"
+  committee: directors
+  servedSince: "F12"
+- 
+  name: "Brian Williams"
+  company: 
+  address: 3526 Princeton Corners Lane<br>Marietta, GA 30062
+  title: "Vendor Representative"
+  phone: "678-918-2356<br>Cell: 678-361-5716"
+  fax: 
+  email: "Brian.Williams@HDS.com"
+  committee: directors
+  servedSince: "S14"
+- 
+  name: "Rick Schoonmaker"
+  company: "IBM Corporation"
+  address: Mail Drop P923<br>2455 South Road<br>Poughkeepsie, NY 12601
+  title: "IBM Mgmt Representative"
+  phone: "845-433-9456"
+  fax: 
+  email: "RASchoon@us.ibm.com"
+  committee: directors
+  servedSince: "F10"
+- 
+  name: "Robert Woods"
+  company: "IRS"
+  address: New Carrolton Federal Building<br>IRS Room A4-270<br>5000 Ellin Road<br>Lanham, MD 20706
+  title: "Agenda and Hot Topic Coordinator"
+  phone: "202-283-5263"
+  fax: "202-283-5679"
+  email: "Robert.L.Woods@IRS.gov"
+  committee: directors
+  servedSince: "S02"
+- 
+  name: "Connie Walberg"
+  company: 
+  address: 1185 N River Rd SW<br>Backus, MN 56435
+  title: "IBM TPFUG Coordinator"
+  phone: "612-397-2286"
+  fax: 
+  email: "cwalberg@us.ibm.com"
+  committee: consultants
+  servedSince: "F10"
+- 
+  name: "Open"
+  company: 
+  address: 
+  title: "Vendor Representative"
+  phone: 
+  fax: 
+  email: 
+  committee: 
+  servedSince: "S14"
+- 
+  name: "Steve Jacobs"
+  company: "Really Great Meetings"
+  address: 348 South Madison Street<br>Woodstock, IL 60098
+  title: "Meeting Planning/Coordination"
+  phone: "847-514-4469"
+  fax: "815-338-9658"
+  email: "stevej@reallygreatmeetings.com"
+  committee: consultants
+  servedSince: 
+- 
+  name: "Open"
+  company: 
+  address: 
+  title: "Board/Web Consultant"
+  phone: 
+  fax: 
+  email: 
+  committee: consultants
+  servedSince: 
+- 
+  name: "Dana Christensen CPA"
+  company: "Christensen, Tyng & Hjelmstad, PC"
+  address: 9600 E Arapahoe RD Suite 240<br>Greenwood Village, CO 80112
+  title: "Financial Counsel"
+  phone: "303-790-1300"
+  fax: "303-790-1359"
+  email: "dmc@rthcpa.com"
+  committee: consultants
+  servedSince: "S06"
+- 
+  name: "Glen Graf"
+  company: "American Express"
+  address: 26-02-01<br>PO Box 53888<br>Phoenix, AZ 85072-3888
+  title: 
+  phone: "602-537-3870"
+  fax: "602-537-3072"
+  email: "Glen.E.Graf@AExp.com"
+  committee: development
+  servedSince: "F11"
+- 
+  name: "Donn Newhouse"
+  company: "American Express"
+  address: 26-02-01<br>PO Box 53888<br>Phoenix, AZ 85072-3888
+  title: 
+  phone: "602-537-3428"
+  fax: "602-537-3072"
+  email: "Donn.K.Newhouse@AExp.com"
+  committee: development
+  servedSince: "S05"
+- 
+  name: "Lance Swallow"
+  company: "HP Enterprise Services"
+  address: 12852 Foster Rd.<br>Rossmoor, CA 90720
+  title: 
+  phone: "310-686-1939"
+  fax: 
+  email: "Lance.Swallow@HP.com"
+  committee: communications
+  servedSince: "S13"
+- 
+  name: "Suzy Charbonneau"
+  company: "Visa"
+  address: 2N-039<br>P.O. Box 636001<br>Highlands Ranch, CO 80163-6001
+  title: 
+  phone: "303-389-8081"
+  fax: "303-389-8001"
+  email: "SCharbon@Visa.com"
+  committee: communications
+  servedSince: "F11"
+- 
+  name: "Charlie Crowe"
+  company: "Travelport"
+  address: 760 Doug Davis Drive<br>Suite B<br>Hapeville, GA 30354
+  title: 
+  phone: "828-478-1244"
+  fax: 
+  email: "Charlie.Crowe@Travelport.com"
+  committee: database
+  servedSince: "F07"
+- 
+  name: "Scott Gosline"
+  company: "Travelport"
+  address: 300 Galleria Parkway<br>Atlanta, GA 30339
+  title: 
+  phone: "770-563-5248"
+  fax: 
+  email: "Scott.Gosline@Travelport.com"
+  committee: database
+  servedSince: "F07"
+- 
+  name: "Javier Rodriguez"
+  company: "Hewlett Packard"
+  address: 3450 Lakeside Dr.<br>Miramar,FL 33027
+  title: 
+  phone: "954-433-6841"
+  fax: "954-433-6859"
+  email: "Javier.Rodriguez@hp.com"
+  committee: tools
+  servedSince: "F09"
+- 
+  name: "Mike Groves"
+  company: "Travelport"
+  address: 11500 N Ambassador Drive<br>Suite 350<br>Kansas City, MO 64153
+  title: 
+  phone: "816-891-5028"
+  fax: "816-891-5672"
+  email: "Mike.Groves@Travelport.com"
+  committee: tools
+  servedSince: "S14"
+- 
+  name: "Bill Rittelmeyer"
+  company: "Xerox Business Services"
+  address: Fredrick Computer Center<br>7300 Crestwood Blvd<br>Fredrickm MD 21701
+  title: 
+  phone: "301-696-2751"
+  fax: "301-695-5637"
+  email: "William.P.Rittelmeyer@marriott-sp.com"
+  committee: operations
+  servedSince: "S95"
+- 
+  name: "Ernie South"
+  company: "Travelport"
+  address: 760 Doug Davis Drive<br>Suite B<br>Hapeville, GA 30354
+  title: 
+  phone: "404-322-3683"
+  fax: "404-322-2400"
+  email: "Ernie.South@Travelport.com"
+  committee: operations
+  servedSince: "F05"
+- 
+  name: "Mark Whitney"
+  company: "Travelport"
+  address: 300 Galleria Parkway<br>Atlanta, GA 30339
+  title: 
+  phone: "404-3322-3666"
+  fax: 
+  email: "Mark.Whitney@Travelport.com"
+  committee: requirements
+  servedSince: "S04"
+- 
+  name: "John Chauvenne"
+  company: "Travelport"
+  address: 760 Doug Davis Drive<br>Suite B<br>Hapeville, GA 30354
+  title: 
+  phone: "404-322-3787"
+  fax: 
+  email: "John.Chauvenne@Travelport.com"
+  committee: 
+     - requirements
+     - control
+  servedSince: "S08"
+- 
+  name: "Asim Mohammad"
+  company: "Marriott International"
+  address: 10400 Fernwood Rd.<br>Bethesda, MD 20817
+  title: 
+  phone: "682-472-7197"
+  fax: 
+  email: "asim.mohammad@marriott.com"
+  committee: soa
+  servedSince: "S14"
+- 
+  name: "John Rojewski"
+  company: "American Express"
+  address: P.O. Box 5388-26-02-01<br>Phoenix, AZ 85072
+  title: 
+  phone: "602-537-3460"
+  fax: 
+  email: "John.Rojewski@aexp.com"
+  committee: soa
+  servedSince: "F11"
+- 
+  name: "Kate Fisher"
+  company: "Visa"
+  address: 44901 Russell Branch Pkwy<br>Ashburn, VA 20147
+  title: 
+  phone: "571-439-7574"
+  fax: 
+  email: "KAFisher@visa.com"
+  committee: control
+  servedSince: "S14"

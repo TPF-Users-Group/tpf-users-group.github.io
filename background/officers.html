@@ -1,0 +1,202 @@
+---
+layout: default
+title: Chairpersons
+lastModified: October 23, 2014
+---
+
+<h1>Board of Directos</h1>
+<h3>To address all Board Members: board-of-directors@tpfug.org</h3>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","directors" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               {{officer.title}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+<p> Number of board members: 12 Number allowed: 13 <a href="#">Openings: 1</a></p>
+
+<h1>Consultants to the board</h1>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","consultants" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               {{officer.title}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h1>Subcommittee Chairpersons</h1>
+<h3>To mail to all Subcommittee Chars: subcommittee-chairs@tpfug.org</h3>
+
+<h2>Applications Development Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","development" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h2>Communications Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","communications" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h2>Database Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","database" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h2>Development Tools Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","tools" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h2>Operations Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","operations" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h2>Requirements Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","requirements" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h2>Service Oriented Architecture (SOA) Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","soa" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
+
+<h2>System Control Program Subcommittee</h2>
+<table class="table table-hover">
+     {% for officer in site.data.officers | where:"committee","control" %}
+     <tr>
+          <td>
+               {{officer.name}}<br>
+               {{officer.company}}<br>
+               {{officer.address}}
+          </td>
+          <td>
+               {{officer.servedSince}}<br>
+               Tel. {{officer.phone}}<br>
+               Fax. {{officer.fax}}<br>
+               {{officer.email}}
+          </td>
+     </tr>
+     {% endfor %}
+</table>
