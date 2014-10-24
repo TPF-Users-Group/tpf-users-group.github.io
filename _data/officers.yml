@@ -86,7 +86,7 @@
   phone: 
   fax: 
   email: 
-  committee: 
+  committee: directors
   servedSince: "S14"
 - 
   name: "Randy Melby"
@@ -146,7 +146,7 @@
   phone: 
   fax: 
   email: 
-  committee: 
+  committee: consultants
   servedSince: "S14"
 - 
   name: "Steve Jacobs"
@@ -296,9 +296,7 @@
   phone: "404-322-3787"
   fax: 
   email: "John.Chauvenne@Travelport.com"
-  committee: 
-     - requirements
-     - control
+  committee: requirements
   servedSince: "S08"
 - 
   name: "Asim Mohammad"
@@ -330,3 +328,13 @@
   email: "KAFisher@visa.com"
   committee: control
   servedSince: "S14"
+- 
+  name: "John Chauvenne"
+  company: "Travelport"
+  address: 760 Doug Davis Drive<br>Suite B<br>Hapeville, GA 30354
+  title: 
+  phone: "404-322-3787"
+  fax: 
+  email: "John.Chauvenne@Travelport.com"
+  committee: control
+  servedSince: "S09"

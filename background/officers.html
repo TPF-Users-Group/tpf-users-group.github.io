@@ -7,7 +7,8 @@ lastModified: October 23, 2014
 <h1>Board of Directos</h1>
 <h3>To address all Board Members: board-of-directors@tpfug.org</h3>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","directors" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'directors' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -22,13 +23,15 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 <p> Number of board members: 12 Number allowed: 13 <a href="#">Openings: 1</a></p>
 
 <h1>Consultants to the board</h1>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","consultants" %}
+     {% for officer in site.data.officers %}
+     {% if office.committee == 'consultants' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -43,6 +46,7 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
@@ -51,7 +55,8 @@ lastModified: October 23, 2014
 
 <h2>Applications Development Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","development" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'development' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -65,12 +70,14 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
 <h2>Communications Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","communications" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'communications' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -84,12 +91,14 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
 <h2>Database Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","database" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'database' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -103,12 +112,14 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
 <h2>Development Tools Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","tools" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'tools' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -122,12 +133,14 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
 <h2>Operations Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","operations" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'operations' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -141,12 +154,14 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
 <h2>Requirements Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","requirements" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'requirements' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -160,12 +175,14 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
 <h2>Service Oriented Architecture (SOA) Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","soa" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'soa' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -179,12 +196,14 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
 
 <h2>System Control Program Subcommittee</h2>
 <table class="table table-hover">
-     {% for officer in site.data.officers | where:"committee","control" %}
+     {% for officer in site.data.officers %}
+     {% if officer.committee == 'control' %}
      <tr>
           <td>
                {{officer.name}}<br>
@@ -198,5 +217,6 @@ lastModified: October 23, 2014
                {{officer.email}}
           </td>
      </tr>
+     {% endif %}
      {% endfor %}
 </table>
