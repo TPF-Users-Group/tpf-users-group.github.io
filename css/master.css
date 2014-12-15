@@ -5,7 +5,9 @@ body {
 }
 
 .navbar {
+     background-color: # #cc9933;
      margin-bottom: 20px;
+     color:  #ffffff;
 }
 
 /* Everything but jumbotron gets side spacing for mobile first views */
