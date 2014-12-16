@@ -8,7 +8,9 @@ lastModified: October 22, 2014
 <div class="row">
 {% for member in site.data.members %}
      <div class="col-md-4">
+          <div style="width: 200px; height: 200px;">
           <a href="{{member.url}}"><img src="{{member.image}}" class="img-responsive" alt="{{member.name}}"></a>
+          </div>
      </div>
 {% endfor %}
 </div>
